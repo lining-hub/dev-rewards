@@ -1,4 +1,4 @@
-# Manual instructions for the paranoid
+# Manual instructions FOR THE PARANOID
 
 The following can be done in a Docker container for additional isolation, including disconnecting its network once required components are installed, but is not necessary.
 
